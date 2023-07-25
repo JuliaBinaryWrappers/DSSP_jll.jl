@@ -5,7 +5,7 @@ os = "macos"
 
     [[DSSP.download]]
     sha256 = "7771e7af022b2cc639b8c7cf4949a979a08c84a3f5f7294a75a660db2d2b4d13"
-    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+0/DSSP.v4.4.0.aarch64-apple-darwin.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+1/DSSP.v4.4.0.aarch64-apple-darwin.tar.gz"
 [[DSSP]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -15,7 +15,7 @@ os = "linux"
 
     [[DSSP.download]]
     sha256 = "9f83c094cad39e0934a0d33eb7e2dd75d341c3bd8d19dfb0a1466f8b2cd9b566"
-    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+0/DSSP.v4.4.0.aarch64-linux-gnu-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+1/DSSP.v4.4.0.aarch64-linux-gnu-cxx03.tar.gz"
 [[DSSP]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -25,7 +25,7 @@ os = "linux"
 
     [[DSSP.download]]
     sha256 = "b77071af6bcccfe6feadec2e0a0fe7390fc9920d387077cc277146504813ac89"
-    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+0/DSSP.v4.4.0.aarch64-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+1/DSSP.v4.4.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[DSSP]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -35,7 +35,7 @@ os = "linux"
 
     [[DSSP.download]]
     sha256 = "a50cc0cb16a9f924b6460bf9fdfd2009f8dcb5448532dafb737398cbd83bd055"
-    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+0/DSSP.v4.4.0.aarch64-linux-musl-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+1/DSSP.v4.4.0.aarch64-linux-musl-cxx03.tar.gz"
 [[DSSP]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -45,7 +45,7 @@ os = "linux"
 
     [[DSSP.download]]
     sha256 = "4f3412413381c968b2aa6edebb0eb3c61e25a06a177e5193890c681fd00a84dd"
-    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+0/DSSP.v4.4.0.aarch64-linux-musl-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+1/DSSP.v4.4.0.aarch64-linux-musl-cxx11.tar.gz"
 [[DSSP]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -56,7 +56,7 @@ os = "linux"
 
     [[DSSP.download]]
     sha256 = "64ab121248d1d123ac2dbba6fc32e428ea281c823f6172aacfbc93e518387e83"
-    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+0/DSSP.v4.4.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+1/DSSP.v4.4.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[DSSP]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -67,7 +67,7 @@ os = "linux"
 
     [[DSSP.download]]
     sha256 = "b8bfb89a347d1ebc1dfe990d78a582c78a4a3c716cf3dc133b3353c20b866892"
-    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+0/DSSP.v4.4.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+1/DSSP.v4.4.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[DSSP]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -78,7 +78,7 @@ os = "linux"
 
     [[DSSP.download]]
     sha256 = "37ec4ad7fc5f50bba2a40af50f183edf3955eb1bbfa01ee58e17eb0317837ca5"
-    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+0/DSSP.v4.4.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+1/DSSP.v4.4.0.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[DSSP]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -89,7 +89,7 @@ os = "linux"
 
     [[DSSP.download]]
     sha256 = "f3e66116e70093f8c2d32215a3c616903d3427e551c274f1ace9a52d8c62d711"
-    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+0/DSSP.v4.4.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+1/DSSP.v4.4.0.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[DSSP]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -100,7 +100,7 @@ os = "linux"
 
     [[DSSP.download]]
     sha256 = "cf05d1368af1bc4371d72ad919e8c1b122ca38f9770a2027b6314f4414c7c9ce"
-    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+0/DSSP.v4.4.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+1/DSSP.v4.4.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[DSSP]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -111,7 +111,7 @@ os = "linux"
 
     [[DSSP.download]]
     sha256 = "b010896553befde3147ee890d558d8dc238ee8b5e19ba92a8a703ec09ba72142"
-    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+0/DSSP.v4.4.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+1/DSSP.v4.4.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[DSSP]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -122,7 +122,7 @@ os = "linux"
 
     [[DSSP.download]]
     sha256 = "45f87bcb1b62548bb0c09469a49beea484921eebb13737e19fbb19c67e27afa2"
-    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+0/DSSP.v4.4.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+1/DSSP.v4.4.0.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[DSSP]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -133,7 +133,7 @@ os = "linux"
 
     [[DSSP.download]]
     sha256 = "d023a77d76c3940a35acf467afe958befb16cbdc22b6fcb142f83a6d83a4ff59"
-    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+0/DSSP.v4.4.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+1/DSSP.v4.4.0.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[DSSP]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -143,7 +143,7 @@ os = "linux"
 
     [[DSSP.download]]
     sha256 = "f40a4e4b10febdbcdf150c854e2a0cc6eb7403f4b703213f35c287a24cf4fcb7"
-    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+0/DSSP.v4.4.0.i686-linux-gnu-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+1/DSSP.v4.4.0.i686-linux-gnu-cxx03.tar.gz"
 [[DSSP]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -153,7 +153,7 @@ os = "linux"
 
     [[DSSP.download]]
     sha256 = "3ea0caa22a137fa52b65f607439c408e69c79051ad402d7aee768307d332e35d"
-    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+0/DSSP.v4.4.0.i686-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+1/DSSP.v4.4.0.i686-linux-gnu-cxx11.tar.gz"
 [[DSSP]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -163,7 +163,7 @@ os = "linux"
 
     [[DSSP.download]]
     sha256 = "b5cfd28b74eba2b4e26c15728bb08d99412a8ca83516003712ca9fc37d0cb382"
-    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+0/DSSP.v4.4.0.i686-linux-musl-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+1/DSSP.v4.4.0.i686-linux-musl-cxx03.tar.gz"
 [[DSSP]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -173,25 +173,25 @@ os = "linux"
 
     [[DSSP.download]]
     sha256 = "3c341b04daa5734c2f6280f4787a513ea6d1a0d1cad8344708db3623ee197a6e"
-    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+0/DSSP.v4.4.0.i686-linux-musl-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+1/DSSP.v4.4.0.i686-linux-musl-cxx11.tar.gz"
 [[DSSP]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b79d0dfcf58dff31f34bf51ba6b275f8b4540889"
+git-tree-sha1 = "6fc00c20a111c451904d0376f1aac99254256d3b"
 os = "windows"
 
     [[DSSP.download]]
-    sha256 = "abaa176aeebc77319a49b8975c92fbcbe6c8e646541525113dcb17082af84686"
-    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+0/DSSP.v4.4.0.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "a4dafbd1f851605e16934d66948626276addd8a8151488e5f727102fcf9114b4"
+    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+1/DSSP.v4.4.0.i686-w64-mingw32-cxx03.tar.gz"
 [[DSSP]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a8607fb9cad61aff6161027a9ce02c69b4cb07e5"
+git-tree-sha1 = "6fc00c20a111c451904d0376f1aac99254256d3b"
 os = "windows"
 
     [[DSSP.download]]
-    sha256 = "28ef0df81814af2c305ae0a204e57638a033c7c7f0b5f8a8756d2d96f4d0ddef"
-    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+0/DSSP.v4.4.0.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "a4dafbd1f851605e16934d66948626276addd8a8151488e5f727102fcf9114b4"
+    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+1/DSSP.v4.4.0.i686-w64-mingw32-cxx11.tar.gz"
 [[DSSP]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
@@ -201,7 +201,7 @@ os = "linux"
 
     [[DSSP.download]]
     sha256 = "a6e877df626413c8b29a0f58f7a8e536e97d6316a56d3e0a83d9f0f696e546a3"
-    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+0/DSSP.v4.4.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+1/DSSP.v4.4.0.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[DSSP]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -211,7 +211,7 @@ os = "linux"
 
     [[DSSP.download]]
     sha256 = "7ea4ba00f59a58d2f06f939aec8abebc520f155d195cde4cc78d1e3a17ded7d5"
-    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+0/DSSP.v4.4.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+1/DSSP.v4.4.0.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[DSSP]]
 arch = "x86_64"
 git-tree-sha1 = "d9b8559a7f9211809813ca401e03478a348b6a82"
@@ -219,7 +219,7 @@ os = "macos"
 
     [[DSSP.download]]
     sha256 = "fe062fdedec2fea120acaff7a66ac2ba4740706c6a556c0a98ca795dd899cfc3"
-    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+0/DSSP.v4.4.0.x86_64-apple-darwin.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+1/DSSP.v4.4.0.x86_64-apple-darwin.tar.gz"
 [[DSSP]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -229,7 +229,7 @@ os = "linux"
 
     [[DSSP.download]]
     sha256 = "db3d0941d1f8d66b2176f79434a7285152084300fe351bbe131ec679731b0581"
-    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+0/DSSP.v4.4.0.x86_64-linux-gnu-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+1/DSSP.v4.4.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[DSSP]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -239,7 +239,7 @@ os = "linux"
 
     [[DSSP.download]]
     sha256 = "0c786c8645994f1057a06276a940b6b34d078681d186cd8460c8282ddb063345"
-    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+0/DSSP.v4.4.0.x86_64-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+1/DSSP.v4.4.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[DSSP]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -249,7 +249,7 @@ os = "linux"
 
     [[DSSP.download]]
     sha256 = "28a535c37ca369b88768a0004b97445fb59f4707228e4a44e4e0f8d26468dfc1"
-    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+0/DSSP.v4.4.0.x86_64-linux-musl-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+1/DSSP.v4.4.0.x86_64-linux-musl-cxx03.tar.gz"
 [[DSSP]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -259,7 +259,7 @@ os = "linux"
 
     [[DSSP.download]]
     sha256 = "853861fc7273f8246a9e82d6ab65fd2bcfcd08f2d8a5ac6bec1b713c312101df"
-    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+0/DSSP.v4.4.0.x86_64-linux-musl-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+1/DSSP.v4.4.0.x86_64-linux-musl-cxx11.tar.gz"
 [[DSSP]]
 arch = "x86_64"
 git-tree-sha1 = "8f562b5c17a6ce3b45645cf5478351556d02cf4d"
@@ -267,22 +267,22 @@ os = "freebsd"
 
     [[DSSP.download]]
     sha256 = "a34d9af90d927b9d40abee1620c58c153633ecb721948c9dbb2f0e3fb09743be"
-    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+0/DSSP.v4.4.0.x86_64-unknown-freebsd.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+1/DSSP.v4.4.0.x86_64-unknown-freebsd.tar.gz"
 [[DSSP]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9fe3a0cf961903eeba4eb3db114e550d28a1742d"
+git-tree-sha1 = "23faf23038d89c64873cb90561c79efa86659796"
 os = "windows"
 
     [[DSSP.download]]
-    sha256 = "12cb98a4283ba6e70dfaef385e2c3b35ea459577363f6d82805ed04f135e2ba5"
-    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+0/DSSP.v4.4.0.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "bdbfeff2e6f73cb2860d9c4030ef9e0674b1c6c5c25576a10a3dbf5b7f522886"
+    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+1/DSSP.v4.4.0.x86_64-w64-mingw32-cxx03.tar.gz"
 [[DSSP]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "350c7eb1cfc952ee9c2c5e9879f8741fbe4e2492"
+git-tree-sha1 = "23faf23038d89c64873cb90561c79efa86659796"
 os = "windows"
 
     [[DSSP.download]]
-    sha256 = "9928e7b86b054d2425c284eb0196b82f8e601464bc762d7151670ad2cad36751"
-    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+0/DSSP.v4.4.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "bdbfeff2e6f73cb2860d9c4030ef9e0674b1c6c5c25576a10a3dbf5b7f522886"
+    url = "https://github.com/JuliaBinaryWrappers/DSSP_jll.jl/releases/download/DSSP-v4.4.0+1/DSSP.v4.4.0.x86_64-w64-mingw32-cxx11.tar.gz"
